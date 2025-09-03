@@ -58,26 +58,26 @@
 
 # class Estudiante:
 
-class Estudiante:
-    def __init__(self, nombre, carrera):
-        self.nombre = nombre
-        self.carrera = carrera
-        self.notas = {}
+# class Estudiante:
+#     def __init__(self, nombre, carrera):
+#         self.nombre = nombre
+#         self.carrera = carrera
+#         self.notas = {}
 
-    def agregarNota(self, materia, nota):  
-        self.notas[materia] = nota
-
-
-estDanni = Estudiante("Danni", "Software")
-
-estDanni.agregarNota("Progra2", 10)
-print(f"La nota de Progra2 es: {estDanni.notas['Progra2']}")
-
-estDanni.agregarNota("Progra2", 5)
-print(f"La nota de Progra2 es: {estDanni.notas['Progra2']}")
+#     def agregarNota(self, materia, nota):  
+#         self.notas[materia] = nota
 
 
-estDanni.notas["moviles"]=10
+# estDanni = Estudiante("Danni", "Software")
 
-print(estDanni.notas.values())
-print(sum(estDanni.notas.values())/len(estDanni.notas.values()))
+# estDanni.agregarNota("Progra2", 10)
+# print(f"La nota de Progra2 es: {estDanni.notas['Progra2']}")
+
+# estDanni.agregarNota("Progra2", 5)
+# print(f"La nota de Progra2 es: {estDanni.notas['Progra2']}")
+
+
+# estDanni.notas["moviles"]=10
+
+# print(estDanni.notas.values())
+# print(sum(estDanni.notas.values())/len(estDanni.notas.values()))

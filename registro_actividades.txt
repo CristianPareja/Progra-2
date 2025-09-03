@@ -1,0 +1,30 @@
+[2025-08-18 11:13:53] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 11:16:36] Usuario: Fabian Vega | Acción: Login | Detalles: Perfil: Vendedores
+[2025-08-18 11:16:50] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 11:17:06] Usuario: Danni Brito | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 11:17:08] Usuario: Danni Brito | Acción: Logout | Detalles: 
+[2025-08-18 11:17:16] Usuario: Gerencia | Acción: Login | Detalles: Perfil: Gerencia
+[2025-08-18 11:26:22] Usuario: Gerencia | Acción: Login | Detalles: Perfil: Gerencia
+[2025-08-18 11:26:24] Usuario: Gerencia | Acción: Logout | Detalles: 
+[2025-08-18 11:26:33] Usuario: Cristian Montero | Acción: Login | Detalles: Perfil: Vendedores
+[2025-08-18 11:26:34] Usuario: Cristian Montero | Acción: Logout | Detalles: 
+[2025-08-18 11:33:50] Usuario: Billy Garzon | Acción: Login | Detalles: Perfil: Vendedores
+[2025-08-18 11:33:56] Usuario: Billy Garzon | Acción: Logout | Detalles: 
+[2025-08-18 11:35:59] Usuario: Billy Garzon | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 11:36:01] Usuario: Billy Garzon | Acción: Logout | Detalles: 
+[2025-08-18 11:36:24] Usuario: Billy Garzon | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 11:36:28] Usuario: Billy Garzon | Acción: Logout | Detalles: 
+[2025-08-18 11:40:16] Usuario: Billy Garzon | Acción: Login | Detalles: Perfil: Vendedores
+[2025-08-18 11:40:21] Usuario: Billy Garzon | Acción: Logout | Detalles: 
+[2025-08-18 11:43:04] Usuario: Paul Pareja | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 11:43:05] Usuario: Paul Pareja | Acción: Logout | Detalles: 
+[2025-08-18 11:43:40] Usuario: Paul Pareja | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 11:43:41] Usuario: Paul Pareja | Acción: Logout | Detalles: 
+[2025-08-18 11:47:31] Usuario: Paul Pareja | Acción: Login | Detalles: Perfil: Vendedores
+[2025-08-18 11:47:38] Usuario: Paul Pareja | Acción: Logout | Detalles: 
+[2025-08-18 11:48:31] Usuario: Paul Pareja | Acción: Login | Detalles: Perfil: Vendedores
+[2025-08-18 11:48:49] Usuario: Paul Pareja | Acción: Login | Detalles: Perfil: Vendedores
+[2025-08-18 11:50:53] Usuario: Paul Pareja | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 14:03:45] Usuario: Paul Pareja | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 14:04:03] Usuario: Paul Pareja | Acción: Añadir stock | Detalles: ID 16 | OK Computer | +2 → 123
+[2025-08-18 14:04:09] Usuario: Paul Pareja | Acción: Logout | Detalles: 

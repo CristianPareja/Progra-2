@@ -1,0 +1,42 @@
+[2025-08-12 14:28:01] Usuario: Ana Torres | Acción: Actualización de stock | Detalles: Añadió 18 unidades al disco 'OK Computer' (ID: 19). Stock anterior: 82, Nuevo stock: 100
+[2025-08-12 14:28:08] Usuario: Ana Torres | Acción: Generación de log | Detalles: Usuario generó archivo de registro de actividades
+[2025-08-12 14:51:33] Usuario: Carlos Mendoza | Acción: Actualización de stock | Detalles: Añadió 12 unidades al disco 'Bad' (ID: 10). Stock anterior: 100, Nuevo stock: 112. Costo total: $167.88
+[2025-08-12 14:51:42] Usuario: Carlos Mendoza | Acción: Generación de log | Detalles: Usuario generó archivo de registro de actividades
+[2025-08-12 15:52:08] Usuario: Carlos Mendoza | Acción: Actualización de stock | Detalles: Añadió 9 unidades al disco 'Back in Black' (ID: 2). Stock anterior: 51, Nuevo stock: 60. Costo total: $130.50
+[2025-08-12 15:53:09] Usuario: Carlos Mendoza | Acción: Edición de disco | Detalles: Editó disco ID 2. Cambios: stock: 60 → 50
+[2025-08-12 15:55:04] Usuario: Carlos Mendoza | Acción: Agregar disco | Detalles: Agregó nuevo disco: 'Playa' (ID: 51), Artista: Bad bunny, Stock inicial: 10
+[2025-08-12 16:23:38] Usuario: Carlos Mendoza | Acción: Ordenamiento | Detalles: Discos ordenados por nombre (ascendente)
+[2025-08-12 16:23:43] Usuario: Carlos Mendoza | Acción: Ordenamiento | Detalles: Discos ordenados por artista (ascendente)
+[2025-08-12 16:23:50] Usuario: Carlos Mendoza | Acción: Ordenamiento | Detalles: Discos ordenados por peso (ascendente)
+[2025-08-12 16:23:57] Usuario: Carlos Mendoza | Acción: Ordenamiento | Detalles: Discos ordenados por stock (ascendente)
+[2025-08-12 17:45:55] Usuario: Carlos Mendoza | Acción: Agregar disco | Detalles: Agregó nuevo disco: 'arena' (ID: 52), Artista: maluma, Stock inicial: 15
+[2025-08-12 17:47:04] Usuario: Carlos Mendoza | Acción: Edición de disco | Detalles: Editó disco ID 52. Cambios: nombre: arena → Rojo, stock: 15 → 20
+[2025-08-12 17:47:50] Usuario: Carlos Mendoza | Acción: Actualización de stock | Detalles: Añadió 100 unidades al disco 'Rojo' (ID: 52). Stock anterior: 20, Nuevo stock: 120. Costo total: $2000.00
+[2025-08-12 17:49:08] Usuario: Carlos Mendoza | Acción: Actualización de stock | Detalles: Añadió 3 unidades al disco 'The Fame' (ID: 39). Stock anterior: 57, Nuevo stock: 60. Costo total: $39.75
+[2025-08-12 17:49:32] Usuario: Carlos Mendoza | Acción: Ordenamiento | Detalles: Discos ordenados por artista (descendente)
+[2025-08-12 17:49:34] Usuario: Carlos Mendoza | Acción: Ordenamiento | Detalles: Discos ordenados por stock (descendente)
+[2025-08-12 17:50:19] Usuario: Carlos Mendoza | Acción: Generación de log | Detalles: Usuario generó archivo de registro de actividades
+[2025-08-13 07:50:26] Usuario: Carlos Mendoza | Acción: Actualizar stock | Detalles: Añadió 100 a 'Like a Virgin' (ID:11). Stock 46 → 146. Costo: $1250.00
+[2025-08-18 09:11:19] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 09:12:13] Usuario: Bodega Uno | Acción: Añadir disco | Detalles: ID 53 | rojo - maluma | género=trap, precio=10.0, stock=100
+[2025-08-18 09:12:52] Usuario: Bodega Uno | Acción: Añadir stock | Detalles: ID 53 | rojo | +200 → 300
+[2025-08-18 09:13:14] Usuario: Bodega Uno | Acción: Eliminar disco | Detalles: ID 53 | rojo - maluma
+[2025-08-18 09:17:28] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 09:27:22] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 09:28:19] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 09:37:29] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 09:37:51] Usuario: Bodega Uno | Acción: Eliminar disco | Detalles: ID 52 | Culture - Migos
+[2025-08-18 09:37:59] Usuario: Bodega Uno | Acción: Logout | Detalles: 
+[2025-08-18 09:38:08] Usuario: Gerente Uno | Acción: Login | Detalles: Perfil: Gerencia
+[2025-08-18 09:38:33] Usuario: Gerente Uno | Acción: Modificar disco | Detalles: ID 20 | nombre: 'Goodbye Yellow Brick Road'→'Goodbye Brick Road Place'
+[2025-08-18 09:38:45] Usuario: Gerente Uno | Acción: Descargar log | Detalles: 
+[2025-08-18 10:05:45] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 10:06:25] Usuario: Bodega Uno | Acción: Añadir disco | Detalles: ID 54 | rojo - maluma | género=trap, precio=10.0, stock=100
+[2025-08-18 10:09:25] Usuario: Bodega Uno | Acción: Logout | Detalles: 
+[2025-08-18 10:09:34] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 10:41:29] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 10:44:14] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 10:44:57] Usuario: Bodega Uno | Acción: Login | Detalles: Perfil: Bodega
+[2025-08-18 10:45:03] Usuario: Bodega Uno | Acción: Añadir stock | Detalles: ID 22 | Californication | +7 → 100
+[2025-08-18 10:45:16] Usuario: Bodega Uno | Acción: Modificar disco | Detalles: ID 22 | stock: 100→92
+[2025-08-18 22:08:27] Usuario: Ana Gerente | Acción: Modificar disco | Detalles: ID 14 → 1989/Taylor Swift/stock 100[2025-08-18 22:10:21] Usuario: Ana Gerente | Acción: Añadir stock | Detalles: ID 14 +50 (nuevo stock=200)[2025-08-18 22:10:29] Usuario: Ana Gerente | Acción: Añadir stock | Detalles: ID 14 +50 (nuevo stock=250)[2025-08-20 19:35:13] Usuario: Ana Gerente | Acción: Modificar disco | Detalles: ID 21 → The Wall/Pink Floyd/stock 186[2025-08-20 19:35:35] Usuario: Ana Gerente | Acción: Modificar disco | Detalles: ID 11 → Like a Virgin/Madonna/stock 29[2025-08-20 19:35:54] Usuario: Ana Gerente | Acción: Añadir stock | Detalles: ID 16 +100 (nuevo stock=223)[2025-08-20 19:36:20] Usuario: Ana Gerente | Acción: Añadir stock | Detalles: ID 18 +30 (nuevo stock=177)[2025-08-20 19:36:35] Usuario: Ana Gerente | Acción: Eliminar disco | Detalles: ID 55 · azul

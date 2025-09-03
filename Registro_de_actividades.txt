@@ -1,0 +1,16 @@
+[2025-08-20 22:52:44] Usuario: Danni Brito | Acción: Agregar disco | Detalles: ID 53 · 1 · 3 · stock 1[2025-08-20 22:56:39] Usuario: Danni Brito | Acción: Agregar disco | Detalles: ID 54 · azul · maluma · stock 70[2025-08-20 22:57:32] Usuario: Danni Brito | Acción: Modificar disco | Detalles: ID 49 → DAMN./Kendrick Lamar/stock 141[2025-08-20 22:57:55] Usuario: Danni Brito | Acción: Añadir stock | Detalles: ID 49 +200 (nuevo stock=341)[2025-08-21 12:34:07] Usuario: Danni Brito | Acción: Modificar disco | Detalles: ID 34 → Divide and multiply/Ed Sheeran/stock 91
+[2025-08-21 12:34:13] Usuario: Danni Brito | Acción: Añadir stock | Detalles: ID 17 +10 (nuevo stock=99)
+[2025-08-21 21:00:25] Usuario: Danni Brito | Acción: Eliminar disco | Detalles: ID 20 · Goodbye Yellow Brick Road
+[2025-08-21 21:04:23] Usuario: Danni Brito | Acción: Eliminar disco | Detalles: ID 25 · Hounds of Love
+[2025-08-21 21:05:07] Usuario: Danni Brito | Acción: Eliminar disco | Detalles: ID 26 · Random Access Memories
+[2025-08-22 12:38:08] Usuario: Danni Brito | Acción: Eliminar disco | Detalles: ID 51 · Astroworld
+[2025-08-22 21:22:46] Usuario: Danni Brito | Acción: Agregar disco | Detalles: ID 55 · Rojo · Maluma · stock 30
+[2025-08-22 21:23:24] Usuario: Danni Brito | Acción: Modificar disco | Detalles: ID 54 → azul/maluma/stock 70
+[2025-08-22 21:23:38] Usuario: Danni Brito | Acción: Eliminar disco | Detalles: ID 53 · 1
+[2025-08-22 21:23:58] Usuario: Danni Brito | Acción: Añadir stock | Detalles: ID 22 +100 (nuevo stock=193)
+[2025-08-22 21:27:27] Usuario: Paul Pareja | Acción: Eliminar disco | Detalles: ID 54 · azul
+[2025-08-23 08:03:14] Usuario: Danni Brito | Acción: Eliminar disco | Detalles: ID 13 · Purple Rain
+[2025-08-23 08:23:00] Usuario: Paul Pareja | Acción: Agregar disco | Detalles: ID 56 · verde · Maluma · stock 100
+[2025-08-23 08:23:43] Usuario: Paul Pareja | Acción: Modificar disco | Detalles: ID 33 → Red/Taylor Swift/stock 143
+[2025-08-23 08:23:58] Usuario: Paul Pareja | Acción: Eliminar disco | Detalles: ID 32 · Fearless
+[2025-08-23 08:24:08] Usuario: Paul Pareja | Acción: Añadir stock | Detalles: ID 56 +100 (nuevo stock=200)
